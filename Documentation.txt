@@ -1,0 +1,11 @@
+-Exemple sur comment prendre l'icône associée au type de fichier:
+https://docs.microsoft.com/en-us/dotnet/api/system.drawing.icon.extractassociatedicon?redirectedfrom=MSDN&view=net-5.0#System_Drawing_Icon_ExtractAssociatedIcon_System_String_
+
+-Exemple sur comment différencier un fichier d'un répertoire:
+https://bytes.com/topic/c-sharp/answers/248663-how-tell-if-path-file-directory
+
+-Video sur les tâches asynchrones par Tim Corey
+https://www.youtube.com/watch?v=ZTKGRJy5P2M&ab_channel=IAmTimCorey
+
+-Post sur StackOverflow montrant que les yield returns ne fonctionnent pas dans un try catch
+https://stackoverflow.com/questions/5067188/yield-return-with-try-catch-how-can-i-solve-it/5067574
